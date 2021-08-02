@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 </div>
 
 Links retirados de <a href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>
+
+![Snake animation](https://github.com/faineormon/faineormon/blob/output/github-contribution-grid-snake.svg)
