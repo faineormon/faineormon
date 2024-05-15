@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
 ## Estudando
 
-<div>
-  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<div><!-- 
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png"/> -->
 </div>
 
 Links retirados de <a href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>
