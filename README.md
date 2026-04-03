@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faineormon&show_icons=true&title_color=9C27B0&icon_color=7fff00&text_color=FFFFFF&bg_color=2e3440" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=9C27B0&icon_color=7fff00&text_color=FFFFFF&bg_color=2e3440" />
-</a>
-
 ## Trabalho com...
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
